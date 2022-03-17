@@ -1,4 +1,4 @@
-                    ### Hi there 👋 I'm Ipek.
+   ### Hi there 👋 I'm Ipek.
 - 🔭 I’m currently working on https://www.sponty.xyz/
 - 🌱 I’m currently learning JS more detailed.
 - 👯 I’m looking to collaborate on any/every project!
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 
 
 -->
-### Connect with me https://www.instagram.com
